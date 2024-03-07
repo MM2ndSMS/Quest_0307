@@ -22,6 +22,5 @@ print("Hello, World!")
 ```
 6. 텍스트 강조(Text Highlighting)
    `잉어시대`
-7. 작은 폰트(Small Font)
-   `<굿small>`
-   
+7. 수평선(Horizontal Rules)
+   `---`
