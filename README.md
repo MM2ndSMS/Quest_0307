@@ -23,5 +23,5 @@ print("Hello, World!")
 6. 텍스트 강조(Text Highlighting)
    `잉어시대`
 7. 작은 폰트(Small Font)
-   `</small>`
+   `<굿small>`
    
